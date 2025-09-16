@@ -1,10 +1,10 @@
 ### Автоустановщик DirectX 9-11 для WinClean.
-
+#
 ![Описание изображения](https://i.ibb.co/fmxJ2CG/700-DA24-C-2-A78-4-E4-A-8-FB4-0-C5-E063-C9411.png)
 
 ![Скачиваний](https://img.shields.io/github/downloads/MartyFiles/DirectX/Release/total?style=for-the-badge&label=Скачиваний&color=blue&logo=download)
 
-___
+#
 
 Утилита WinClean доступна подписчикам [MartyPlus](https://t.me/martyfiles/1146).
 
